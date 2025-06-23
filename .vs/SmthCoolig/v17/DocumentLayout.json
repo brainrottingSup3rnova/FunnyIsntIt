@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\monia\\Desktop\\SmthCoolig\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{859E3531-E922-424D-8AD5-9F5FB07B82E6}|YesItsCool\\YesItsCool.csproj|c:\\users\\monia\\desktop\\smthcoolig\\yesitscool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{859E3531-E922-424D-8AD5-9F5FB07B82E6}|YesItsCool\\YesItsCool.csproj|solutionrelative:yesitscool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859E3531-E922-424D-8AD5-9F5FB07B82E6}|YesItsCool\\YesItsCool.csproj|c:\\users\\monia\\desktop\\smthcoolig\\yesitscool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E3531-E922-424D-8AD5-9F5FB07B82E6}|YesItsCool\\YesItsCool.csproj|solutionrelative:yesitscool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|c:\\users\\monia\\desktop\\smthcoolig\\smthcoolig\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|solutionrelative:smthcoolig\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +38,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\monia\\Desktop\\SmthCoolig\\YesItsCool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "YesItsCool\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\monia\\Desktop\\SmthCoolig\\YesItsCool\\MainWindow.xaml",
+              "RelativeToolTip": "YesItsCool\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-23T13:16:36.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Desktop\\SmthCoolig\\YesItsCool\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "YesItsCool\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\monia\\Desktop\\SmthCoolig\\YesItsCool\\MainWindow.xaml.cs",
+              "RelativeToolTip": "YesItsCool\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:16:36.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Types.cs",
               "DocumentMoniker": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Types.cs",
               "RelativeDocumentMoniker": "SmthCoolig\\Types.cs",
@@ -38,34 +71,32 @@
               "RelativeToolTip": "SmthCoolig\\Types.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T12:49:23.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T12:49:23.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Shop.cs",
               "DocumentMoniker": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Shop.cs",
               "RelativeDocumentMoniker": "SmthCoolig\\Shop.cs",
               "ToolTip": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Shop.cs",
               "RelativeToolTip": "SmthCoolig\\Shop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T12:45:48.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\monia\\desktop\\SmthCoolig\\SmthCoolig\\Products.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Products.cs",
               "RelativeDocumentMoniker": "SmthCoolig\\Products.cs",
-              "ToolTip": "C:\\Users\\monia\\desktop\\SmthCoolig\\SmthCoolig\\Products.cs",
+              "ToolTip": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Products.cs",
               "RelativeToolTip": "SmthCoolig\\Products.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T12:26:16.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T12:26:16.983Z"
             }
           ]
         }

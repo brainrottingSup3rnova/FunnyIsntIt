@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmthCoolig")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3081ddcef585d0ac916c3855c5020b13bfc6cdd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmthCoolig")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmthCoolig")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

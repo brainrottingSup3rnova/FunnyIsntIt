@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monia\\desktop\\SmthCoolig\\SmthCoolig\\SmthCoolig.csproj": {}
+    "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\SmthCoolig.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monia\\desktop\\SmthCoolig\\SmthCoolig\\SmthCoolig.csproj": {
+    "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\SmthCoolig.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monia\\desktop\\SmthCoolig\\SmthCoolig\\SmthCoolig.csproj",
+        "projectUniqueName": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\SmthCoolig.csproj",
         "projectName": "SmthCoolig",
-        "projectPath": "C:\\Users\\monia\\desktop\\SmthCoolig\\SmthCoolig\\SmthCoolig.csproj",
+        "projectPath": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\SmthCoolig.csproj",
         "packagesPath": "C:\\Users\\monia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monia\\desktop\\SmthCoolig\\SmthCoolig\\obj\\",
+        "outputPath": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

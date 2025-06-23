@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\monia\\Desktop\\SmthCoolig\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|c:\\users\\monia\\desktop\\smthcoolig\\smthcoolig\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|solutionrelative:smthcoolig\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|c:\\users\\monia\\desktop\\smthcoolig\\smthcoolig\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|solutionrelative:smthcoolig\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|c:\\users\\monia\\desktop\\smthcoolig\\smthcoolig\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|solutionrelative:smthcoolig\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|c:\\users\\monia\\desktop\\smthcoolig\\smthcoolig\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B386C10-E66F-41F9-9319-4B08BDA60663}|SmthCoolig\\SmthCoolig.csproj|solutionrelative:smthcoolig\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Types.cs",
+              "RelativeDocumentMoniker": "SmthCoolig\\Types.cs",
+              "ToolTip": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Types.cs",
+              "RelativeToolTip": "SmthCoolig\\Types.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:49:23.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Class1.cs",
-              "RelativeDocumentMoniker": "SmthCoolig\\Class1.cs",
-              "ToolTip": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Class1.cs",
-              "RelativeToolTip": "SmthCoolig\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Shop.cs",
+              "RelativeDocumentMoniker": "SmthCoolig\\Shop.cs",
+              "ToolTip": "C:\\Users\\monia\\Desktop\\SmthCoolig\\SmthCoolig\\Shop.cs",
+              "RelativeToolTip": "SmthCoolig\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:45:48.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\monia\\desktop\\SmthCoolig\\SmthCoolig\\Products.cs",
+              "RelativeDocumentMoniker": "SmthCoolig\\Products.cs",
+              "ToolTip": "C:\\Users\\monia\\desktop\\SmthCoolig\\SmthCoolig\\Products.cs",
+              "RelativeToolTip": "SmthCoolig\\Products.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T12:26:16.983Z",
               "EditorCaption": ""
